@@ -37,15 +37,13 @@ Designed for developers who want a clean and minimal alternative to tools like P
 git clone https://github.com/yourusername/react-request-sender.git
 cd react-request-sender
 2️⃣ Install Dependencies
-bash
-Copy code
 npm install
 # or
 yarn install
 3️⃣ Run the Application
-bash
-Copy code
 npm run dev
+# or
+npm start
 # or
 yarn start
 By default, the app runs on
